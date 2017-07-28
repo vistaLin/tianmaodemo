@@ -1,0 +1,15 @@
+/*使用通配符 匹配盒子模型没有外边距和内边距*/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+/*布局整个顶端的div*/
+div.top {
+	height: 30px;
+	width: 100%;
+	background-color: rgb(242,242,242);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: rgb(229,229,299);
+}
